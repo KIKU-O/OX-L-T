@@ -29,7 +29,7 @@ int Engine::Process()
 
         //std::ifstream ft("../assets/Resources.xml");
         //if (!ft) { return -1; } // Debug
-        gScene.Load("../assets/Resources.xml");
+        gScene.Load("assets/Resources.xml");
         gScene.Initialize();
 
         oxygine::Color gClearColor(32, 32, 32, 255);
