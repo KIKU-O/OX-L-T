@@ -1,0 +1,5 @@
+#pragma once
+
+#define APPLICATION_WIDTH 960
+#define APPLICATION_HEIGHT 640
+#define APPLICATION_VSYNC true

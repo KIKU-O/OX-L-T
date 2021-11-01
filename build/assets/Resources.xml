@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "assets/images"/>
+	<atlas>
+		<image id="Black" file="Black.png"/>
+		<image id="White" file="White.png"/>
+		<image id="Figure-White" file="Figure-White.png"/>
+		<image id="Figure-Black" file="Figure-Black.png"/>
+		<image file="Bunny.png"/>
+	</atlas>
+</resources>
